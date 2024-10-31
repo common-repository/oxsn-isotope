@@ -1,0 +1,21 @@
+.oxsn_isotope_wrap {
+	margin: 0 auto;
+	position: relative;
+}
+
+.oxsn_isotope_item {
+	width: 280px;
+}
+
+.oxsn_isotope_item_column_width {
+	width: 30px;
+}
+
+.oxsn_isotope_gutter_width {
+	width: 30px;
+}
+
+.oxsn_isotope_stamp {
+	top: 0;
+	left: 0;
+}
